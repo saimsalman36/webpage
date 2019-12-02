@@ -4,16 +4,19 @@ I'm a PhD Student @ [Brown](https://www.brown.edu/) in the [Computer Science Dep
 
 ## Publications
 
-- DeepConf: Automating Data Center Network Topologies Management with Machine Learning
+DeepConf: Automating Data Center Network Topologies Management with Machine Learning
 **Saim Salman**, Christopher Streiffer, Huan Chen, Theophilus Benson and Asim Kadav
 In Proceedings of SIGCOMM NetAI'18 Workshop
 ![PDF](publications/NetAI18.pdf)
 
+DeepConf: Automating Data Center Network Topologies Management with Machine Learning
+**Saim Salman**, Theophilus Benson and Asim Kadav
+In Proceedings of NeurIPS'18 Workshop on Learning for Systems
+![PDF](publications/MLSYS18.pdf)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## News
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saimsalman36/webpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ## Other Links
 
