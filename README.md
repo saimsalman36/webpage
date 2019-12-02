@@ -4,29 +4,10 @@ I'm a PhD Student @ [Brown](https://www.brown.edu/) in the [Computer Science Dep
 
 ## Publications
 
-```
 - DeepConf: Automating Data Center Network Topologies Management with Machine Learning
 **Saim Salman**, Christopher Streiffer, Huan Chen, Theophilus Benson and Asim Kadav
 In Proceedings of SIGCOMM NetAI'18 Workshop
-```
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+![PDF](publications/NetAI18.pdf)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
