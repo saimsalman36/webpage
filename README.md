@@ -2,9 +2,13 @@
 
 I'm a PhD Student @ [Brown](https://www.brown.edu/) in the [Computer Science Department](http://cs.brown.edu/) in the [Systems Group](https://systems.cs.brown.edu/) working under [Theophilus Benson](http://cs.brown.edu/~tab/).
 
-### Publications
+## Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+- DeepConf: Automating Data Center Network Topologies Management with Machine Learning
+**Saim Salman**, Christopher Streiffer, Huan Chen, Theophilus Benson and Asim Kadav
+In Proceedings of SIGCOMM NetAI'18 Workshop
+```
 
 ```markdown
 Syntax highlighted code block
@@ -26,10 +30,12 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## News
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saimsalman36/webpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Other Links
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+
+Drop me an email at [saim_salman@brown.edu](saim_salman@brown.edu) if you need to get in contact with me.
