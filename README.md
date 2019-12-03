@@ -31,7 +31,7 @@ May 2019 to August 2019: Interned @ Google under [Anees Shaikh](https://www.link
 
 ## CV
 
-[LINK](/cv/cv.pdf) Last Updated: October 21st, 2019
+[LINK](/cv/cv.pdf) (Last Updated: October 21st, 2019)
 
 ## Other Information / Links
 
