@@ -4,6 +4,11 @@ I'm a PhD Student @ [Brown](https://www.brown.edu/) in the [Computer Science Dep
 
 ## Publications
 
+*Deconstructing Data Center Load Balancing with Network Traffic Profiles*  
+**Saim Salman**, Antonio Marsico, Gianni Antichi, Theophilus Benson  
+Poster @ [5th Annual New England Network and Systems Day (NENS19)](https://systems.cs.brown.edu/nens/2019/)
+[POSTER](/posters/NENS19.pdf)
+
 *DeepConf: Automating Data Center Network Topologies Management with Machine Learning*  
 **Saim Salman**, Christopher Streiffer, Huan Chen, Theophilus Benson and [Asim Kadav](http://www.nec-labs.com/asim-kadav)  
 In Proceedings of [SIGCOMM NetAI'18 Workshop](https://conferences.sigcomm.org/sigcomm/2018/workshop-netaim.html)  
@@ -19,15 +24,10 @@ In Proceedings of [NeurIPS'18 Workshop on Learning for Systems](http://mlforsyst
 Poster @ [4th Annual New England Network and Systems Day (NENS17)](https://systems.cs.brown.edu/nens/2017/)
 [POSTER](/posters/NENS17.pdf)
 
-*Deconstructing Data Center Load Balancing with Network Traffic Profiles*  
-**Saim Salman**, Antonio Marsico, Gianni Antichi, Theophilus Benson  
-Poster @ [5th Annual New England Network and Systems Day (NENS19)](https://systems.cs.brown.edu/nens/2019/)
-[POSTER](/posters/NENS19.pdf)
-
 ## News
 
-November 2019: Attended [KubeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) + [EnvoyCon](https://events19.linuxfoundation.org/events/envoycon-2019/) in San Diego  
-May 2019 to August 2019: Interned @ Google under [Anees Shaikh](https://www.linkedin.com/in/shaikh-anees)  
+**November 2019**: Attended [KubeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) + [EnvoyCon](https://events19.linuxfoundation.org/events/envoycon-2019/) in San Diego  
+**May 2019 to August 2019**: Interned @ Google under [Anees Shaikh](https://www.linkedin.com/in/shaikh-anees)  
 
 ## CV
 
