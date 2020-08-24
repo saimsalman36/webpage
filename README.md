@@ -6,7 +6,7 @@ I'm a graduate student @ [Brown](https://www.brown.edu/) in the [Computer Scienc
 
 *Topology Augmentation Meets Machine Learning*  
 **Saim Salman**, Theophilus Benson  
-In Proceedings of [SIGCOMM OptSys'20 Workshop](https://conferences.sigcomm.org/sigcomm/2020/workshop-optsys.html)
+In Proceedings of [SIGCOMM OptSys'20 Workshop](https://conferences.sigcomm.org/sigcomm/2020/workshop-optsys.html)  
 [PDF](/publications/OptSys20.pdf)
 
 *Deconstructing Data Center Load Balancing with Network Traffic Profiles*  
