@@ -1,6 +1,6 @@
 ## Biography
 
-I'm a PhD Student @ [Brown](https://www.brown.edu/) in the [Computer Science Department](http://cs.brown.edu/) in the [Systems Group](https://systems.cs.brown.edu/) working under [Theophilus Benson](http://cs.brown.edu/~tab/).
+I'm a graduate student @ [Brown](https://www.brown.edu/) in the [Computer Science Department](http://cs.brown.edu/) in the [Systems Group](https://systems.cs.brown.edu/) working under [Theophilus Benson](http://cs.brown.edu/~tab/).
 
 ## Publications
 
@@ -31,7 +31,7 @@ Poster @ [4th Annual New England Network and Systems Day (NENS17)](https://syste
 
 ## CV
 
-[LINK](/cv/cv.pdf) (Last Updated: October 21st, 2019)
+[LINK](/cv/cv.pdf) (Last Updated: August 23rd, 2020)
 
 ## Other Information / Links
 
