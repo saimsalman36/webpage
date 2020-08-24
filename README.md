@@ -4,6 +4,11 @@ I'm a graduate student @ [Brown](https://www.brown.edu/) in the [Computer Scienc
 
 ## Publications
 
+*Topology Augmentation Meets Machine Learning*  
+**Saim Salman**, Theophilus Benson  
+In Proceedings of [SIGCOMM OptSys'20 Workshop](https://conferences.sigcomm.org/sigcomm/2020/workshop-optsys.html)
+[PDF](/publications/OptSys20.pdf)
+
 *Deconstructing Data Center Load Balancing with Network Traffic Profiles*  
 **Saim Salman**, Antonio Marsico, Gianni Antichi, Theophilus Benson  
 Poster @ [5th Annual New England Network and Systems Day (NENS19)](https://systems.cs.brown.edu/nens/2019/)
