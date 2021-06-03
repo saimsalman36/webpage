@@ -27,7 +27,7 @@ In Proceedings of [NeurIPS'18 Workshop on Learning for Systems](http://mlforsyst
 *Symphony: An Automated Approach to Consistency Requirements Detecting and Orchestrating*  
 **Saim Salman**, Theophilus Benson  
 Poster @ [4th Annual New England Network and Systems Day (NENS17)](https://systems.cs.brown.edu/nens/2017/)
-[POSTER](/posters/NENS17.pdf)
+[POSTER](/posters/NENS17.pdf) [POWERPOINT](/posters/NENS17.pptx)
 
 ## News
 
